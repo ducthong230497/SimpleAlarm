@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Alarm</string>
+    <string name="alarm_repeat">Alarm Repeat Daily</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="alarm_set">Alarm Set</string>
+    <string name="alarm_content_title">Alarm Content Title</string>
+    <string name="alarm_content_text">Alarm Content Text</string>
+</resources>
